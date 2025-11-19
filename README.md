@@ -56,4 +56,6 @@ Pull requests are welcome. For major changes, open an issue first.
 
 ## License
 
-MIT
+## BASE URL
+
+- https://task-manager-backend-mr5x.onrender.com/api
